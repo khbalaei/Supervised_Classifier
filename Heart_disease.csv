@@ -1,7 +1,0 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import sklearn
-heart_data.isnull().sum() # = 0
-heart_data.isna().sum() # = 0
